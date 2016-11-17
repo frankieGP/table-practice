@@ -1,0 +1,76 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+  color: #5E5D52;
+  padding: -40px;
+}
+
+table {
+  border-left: 1px solid #1D96B2;
+  border-right: 1px solid #1D96B2;
+  display: block;
+  margin: 0 auto;
+  width: 1000px;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #1D96B2;
+}
+
+td {
+  padding: 13px;
+  margin: 0;
+  border-bottom: 1px solid #1D96B2;
+  width: 40%;
+  color: #5E5D52;
+}
+/*th {
+  padding: 13px;
+  border-bottom: 1px solid #1D96B2;
+  color: white;
+}*/
+.white-box {
+  background-color: #FFFFFF;
+}
+
+.gray-box {
+  background-color: #EFEFEE;
+}
+
+.teal-box td {
+  color: #FFFFFF;
+}
+
+.title {
+  font-weight: bold;
+  width: 100px;
+}
+
+.year {
+  width: 5%;
+}
+
+.studio {
+  width: 10%;
+}
+
+.world-gross {
+  width: 10%;
+}
+
+.dom-gross {
+  width: 10%;
+}
+
+.for-gross {
+  width: 10%;
+}
+
+.budget {
+  width: 25%;
+}
